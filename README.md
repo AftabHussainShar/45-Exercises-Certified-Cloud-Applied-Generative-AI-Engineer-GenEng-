@@ -1,8 +1,8 @@
 ## Repository Description:
 
-*Course:* Certified Cloud Applied Generative AI Engineer (GenEng)
-*Institution:* Governor House
-*Exercises:* TypeScript (45 exercises)
+*Course:* Certified Cloud Applied Generative AI Engineer (GenEng) <br>
+*Institution:* Governor House <br>
+*Exercises:* TypeScript (45 exercises) <br>
 
 ## Description:
 
